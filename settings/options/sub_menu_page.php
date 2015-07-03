@@ -1,4 +1,4 @@
-<?php namespace PaintCloud\WP\Settings;
+<?php namespace kowboykoder\PaintCloud\WP\Settings;
 
 $page = new Page('My Sub Menu', array('type' => 'submenu', 'parent_slug' => 'my-menu'));
 

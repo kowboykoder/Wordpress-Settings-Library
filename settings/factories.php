@@ -1,4 +1,4 @@
-<?php namespace PaintCloud\WP\Settings;
+<?php namespace kowboykoder\PaintCloud\WP\Settings;
 
 if ( ! defined( 'ABSPATH' ) ) exit; // Exit if accessed directly
 

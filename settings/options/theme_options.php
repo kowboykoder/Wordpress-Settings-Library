@@ -1,4 +1,4 @@
-<?php namespace PaintCloud\WP\Settings;
+<?php namespace kowboykoder\PaintCloud\WP\Settings;
 
 $page = new Page('Theme Options');
 
